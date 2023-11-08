@@ -1,7 +1,7 @@
 # WebScrapping-on-Realtime-Minion-Items(Flipkart)
 Web scrapping process on extracting required details of a specific item category named - 'Minions'
 
-## webscrapping
+## Web Scrapping
 
 •	Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites.[1] Web scraping software may directly access the World Wide Web using the Hypertext Transfer Protocol or a web browser. While web scraping can be done manually by a software user, the term typically refers to automated processes implemented using a bot or web crawler. It is a form of copying in which specific data is gathered and copied from the web, typically into a central local database or spreadsheet, for later retrieval or analysis.
 
@@ -15,6 +15,6 @@ Web scrapping process on extracting required details of a specific item category
 
 •	There are methods that some websites use to prevent web scraping, such as detecting and disallowing bots from crawling (viewing) their pages. In response, there are web scraping systems that rely on using techniques in DOM parsing, computer vision and natural language processing to simulate human browsing to enable gathering web page content for offline parsing.
 
-## web scrapping using python
+## Web Scrapping using python
 
 
