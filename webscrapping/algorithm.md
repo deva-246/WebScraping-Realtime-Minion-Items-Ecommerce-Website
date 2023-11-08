@@ -29,7 +29,7 @@
         
         > Page URL
  
-7. To get your own user agent visit **www.whatismybrowser.com** > User Agents > Parse your Agent. Now click the link and copy and   
+7. To get your own user agent visit **www.whatismybrowser.com** > Detect my settings > User Agents > Parse your Agent. Now click the link and copy and   
        paste it in the python code.
 
 8. Fit the above mentioned components in the below code,
@@ -39,3 +39,10 @@
         HEADERS =  ({'User-Agent' : 'YOUR USER AGENT'})
 
         webpage = requests.get(URL, headers= HEADERS)
+
+9. Check the Success of HTTP Request by printing the webpage variable
+
+       > if output is <Responese [200]> - SUCCESSFULL
+
+       > else if output is <Responese [503]> - Try again later with a different user agent
+10. 
