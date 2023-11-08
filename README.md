@@ -21,9 +21,11 @@ Web scrapping process on extracting required details of a specific item category
 The web scrapping consists of two parts: a web crawler and a web scraper. In simple words, the web crawler is a horse, and the scrapper is the chariot. The crawler leads the scrapper and extracts the requested data. Let's understand about these two components of web scrapping:
 
 •	The **crawler**
+
 A web crawler is generally called a "spider." It is an artificial intelligence technology that browses the internet to index and searches for the content by given links. It searches for the relevant information asked by the programmer.
 
 •  **The scrapper**
+
 A web scraper is a dedicated tool that is designed to extract the data from several websites quickly and effectively. Web scrappers vary widely in design and complexity, depending on the projects.
 
 
