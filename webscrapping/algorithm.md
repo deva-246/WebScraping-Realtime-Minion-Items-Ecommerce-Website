@@ -47,6 +47,30 @@
 
        > if output is <Responese [200]> - SUCCESSFULL
 
-       > else if output is <Responese [503]> - Try again later with a different user agent
+       > else if output is <Responese [503]> - Try again later with a different user agent / alternate website link
    
-10. 
+10. Now, the website HTML content is recieved from the website in bytes type, so we must convert it into proper HTML format this is achieved by using BeautifulSoap(),
+
+       any_soup_variable =  BeautifulSoap(webpage.content , "html.parser")
+
+11. Determine the code of required component details that you are in need of, for example:
+
+        > Product Title
+
+        > Product Price
+
+        > Product Rating
+
+12. Find out the tag and class name for respective component by using inspect option to extract the data, and store them.
+
+       any_soup_variable.find("tag name", attrs={"class/id" : 'respective name'})
+
+    by this command respective tag details will be displayed, to alter the output .text.strip() can be used to the above line of code.
+       
+13. To get these data into a csv file , extract data and store it in a list and define function to get the tag data respctively.
+
+14. use this command to transfer all the data into a csv file,
+
+       dataframe_name.to_csv("minions.csv", header=True, index=False)
+
+      
