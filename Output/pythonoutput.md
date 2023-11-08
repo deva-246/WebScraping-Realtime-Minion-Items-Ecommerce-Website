@@ -1,4 +1,4 @@
-# Jupyter IDE Outputs - Scrapping elements
+**Jupyter IDE Outputs - Scrapping elements**
 
 ## Conversion of website data - (byte into HTML format)
 
