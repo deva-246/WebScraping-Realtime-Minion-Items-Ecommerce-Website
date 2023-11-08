@@ -20,8 +20,10 @@
    
 
 4. Go to the required website and search for the category that you want to scrap
+   
   
 5. Now right click > inspect and examine the html code present in the window that is displayed in the left end of your screen
+   
   
 6. For any webscrapping using python 2 main components are important to make a http request using HEADER,
   
@@ -29,8 +31,8 @@
         
         > Page URL
  
-7. To get your own user agent visit **www.whatismybrowser.com** > Detect my settings > User Agents > Parse your Agent. Now click the link and copy and   
-       paste it in the python code.
+7. To get your own user agent visit **www.whatismybrowser.com** > Detect my settings > User Agents > Parse your Agent. Now click the link and copy and paste it in the python code.
+   
 
 8. Fit the above mentioned components in the below code,
   
@@ -39,10 +41,12 @@
         HEADERS =  ({'User-Agent' : 'YOUR USER AGENT'})
 
         webpage = requests.get(URL, headers= HEADERS)
+   
 
 9. Check the Success of HTTP Request by printing the webpage variable
 
        > if output is <Responese [200]> - SUCCESSFULL
 
        > else if output is <Responese [503]> - Try again later with a different user agent
+   
 10. 
