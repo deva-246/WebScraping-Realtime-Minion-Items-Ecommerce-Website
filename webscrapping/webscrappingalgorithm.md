@@ -10,8 +10,8 @@
 
 <!DOCTYPE html>
 <html>
-  <title></title>
-  <body>
+<title></title>
+<body>
     // various tags used in a web page
     <div>
     <h1> Bello !</h1>
@@ -19,7 +19,7 @@
     <a> This is anchor tag</a>
     <span> ELements, text </span>
     </div>
-  </body>
+</body>
 </html>
 
 
