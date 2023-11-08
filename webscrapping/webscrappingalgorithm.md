@@ -8,19 +8,19 @@
 
 ## Basic HTML Structure 
 
-<!DOCTYPE html>
-<html>
-<title></title>
-<body>
+//<!DOCTYPE html>
+//<html>
+//<title></title>
+//<body>
     // various tags used in a web page
-    <div>
-    <h1> Bello !</h1>
-    <p>........</p>
-    <a> This is anchor tag</a>
-    <span> ELements, text </span>
-    </div>
-</body>
-</html>
+    //<div>
+    //<h1> Bello !</h1>
+    //<p>........</p>
+    //<a> This is anchor tag</a>
+    //<span> ELements, text </span>
+    //</div>
+//</body>
+//</html>
 
 
 
