@@ -6,17 +6,18 @@
    
 3. Import the below mentioned packages
 
-       > BeautifulSoup
+       BeautifulSoup
 
            pip install bs4
             
-       > requests
+       requests
 
             pip install requests
    
-       > pandas
+       pandas
 
            pip install pandas
+   
 
    4. Go to the required website and search for the category that you want to scrap
   
