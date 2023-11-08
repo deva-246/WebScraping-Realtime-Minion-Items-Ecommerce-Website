@@ -8,19 +8,9 @@
 
 ## Basic HTML Structure 
 
-//<!DOCTYPE html>
-//<html>
-//<title></title>
-//<body>
-    // various tags used in a web page
-    //<div>
-    //<h1> Bello !</h1>
-    //<p>........</p>
-    //<a> This is anchor tag</a>
-    //<span> ELements, text </span>
-    //</div>
-//</body>
-//</html>
+![image](https://github.com/deva-246/WebScrapping-Realtime-Minion-Items-Ecommerce-Website/assets/75877347/25d1bb17-511a-4093-b16b-103f25fe3f7e)
+
+
 
 
 
