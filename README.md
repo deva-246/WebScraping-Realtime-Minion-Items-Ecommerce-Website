@@ -15,21 +15,27 @@ Web scrapping process on extracting required details of a specific item category
 
 •	There are methods that some websites use to prevent web scraping, such as detecting and disallowing bots from crawling (viewing) their pages. In response, there are web scraping systems that rely on using techniques in DOM parsing, computer vision and natural language processing to simulate human browsing to enable gathering web page content for offline parsing.
 
-## Web Scrapping using python
 
-There are other popular programming languages, but why we choose the Python over other programming languages for web scraping, due to a list of Python's features that make the most useful programming language for web scrapping.
+## Basic components of web scrapping
 
-•	**Dynamically Typed**
-In Python, we don't need to define data types for variables; we can directly use the variable wherever it requires. It saves time and makes a task faster. Python defines its classes to identify the data type of variable.
+The web scrapping consists of two parts: a web crawler and a web scraper. In simple words, the web crawler is a horse, and the scrapper is the chariot. The crawler leads the scrapper and extracts the requested data. Let's understand about these two components of web scrapping:
 
-•	**Vast collection of libraries**
-Python comes with an extensive range of libraries such as NumPy, Matplotlib, Pandas, Scipy, etc., that provide flexibility to work with various purposes. It is suited for almost every emerging field and also for web scrapping for extracting data and do manipulation.
+•	The **crawler**
+A web crawler is generally called a "spider." It is an artificial intelligence technology that browses the internet to index and searches for the content by given links. It searches for the relevant information asked by the programmer.
 
-•	**Less Code**
-The purpose of the web scrapping is to save time. But what if you spend more time in writing the code? That's why we use Python, as it can perform a task in a few lines of code.
+•  **The scrapper**
+A web scraper is a dedicated tool that is designed to extract the data from several websites quickly and effectively. Web scrappers vary widely in design and complexity, depending on the projects.
 
-•	**Open-Source Community**
-Python is open-source, which means it is freely available for everyone. It has one of the biggest communities across the world where you can seek help if you get stuck anywhere in Python code.
+
+
+
+
+
+
+
+
+
+
 
 
 
